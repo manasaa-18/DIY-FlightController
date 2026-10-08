@@ -148,4 +148,3 @@ This project directly controls high-speed brushless motors and LiPo-powered syst
 Author
 
 Built by Mani
-GitHub:
